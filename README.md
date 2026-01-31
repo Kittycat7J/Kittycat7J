@@ -20,7 +20,8 @@ title: About Me
 ---
 radar-beta
   axis old["1.8-1.7"], smp["Quasar"], discord["Discord"], container["Docker"], l["Linux"], a["Random"]
-  curve a["label ig"]{95, 10, 40, 60, 85, 50}
+  axis left["unfinished"], forks["forks"]
+  curve a["label ig"]{95, 10, 40, 60, 85, 50, 89, 70}
 
   max 100
   min 0
